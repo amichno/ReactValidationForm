@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import { variables } from '../assets/variables';
 import { CentralWrapper, MainWrapper } from './App.styles';
 import Form from '../Form/Form.component';
-import Banner from '../Banner/banner.component';
+import Banner from '../Banner/Banner.component';
 
 
 
