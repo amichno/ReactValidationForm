@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { variables } from '../assets/variables';
-import BackGroundImage from '../assets/Images/zeby.svg';
+import BackGroundImage from '../assets/Images/bg-intro-desktop.png';
 
 export const MainWrapper = styled.div`
   width: 100vw;

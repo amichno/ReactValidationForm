@@ -10,6 +10,7 @@ const FormDiv = styled.div`
 const Form:React.FunctionComponent = ()=>{
     return(
         <FormDiv>
+            Formularz
             <div>
             </div>
             <div>
