@@ -1,4 +1,3 @@
-import { editableInputTypes } from "@testing-library/user-event/dist/utils";
 import React from "react";
 
 import { banner_basic_text, banner_header_text } from "../assets/consts";

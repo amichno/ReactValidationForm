@@ -12,11 +12,11 @@ export const MainWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-`
+`;
 
 export const CentralWrapper = styled.div`
   width: 80%;
   height: 80%;
   display: flex;
   flex-wrap: wrap;
-`
+`;
